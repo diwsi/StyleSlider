@@ -16,6 +16,6 @@ Call   <b>StyleSlider.Init()</b> method to initialize sliders.
 <b>data-target:</b> Sets target elements to manuplate. Can be any <i>querySelector</i> parameter like class,id or tag name.
 <br><i> eg: data-target=".className", data-target="#idName", data-target="img" </i>  
 <b>data-style:</b> Sets style template to control. "#" charecter will be replaced with the controllers value.
-<br> <i>eg: data-style="font-size:#pt" , data-style="opacity:#" </i> <br> <br>
+<br> <i>eg: data-style="font-size:#pt" , data-style="opacity:#" </i> <br>  
 <b>data-event:</b>Controller event name to bind changes. "input" by default.<br>
 <i>eg:input,change</i>
